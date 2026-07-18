@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Roleplay",
+  "description": "Crea personajes personalizados con historiales de chat únicos alimentados por Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
